@@ -1,0 +1,7 @@
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-policies>
+        <force-lock />
+        <wipe-data />
+        <!-- Thêm các quyền khác mà bạn cần -->
+    </uses-policies>
+</device-admin>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="961f2fee-1f03-4c4d-a469-8a4c7e366bb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/model/AppVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/dialog_update.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vacapplock/activities/lock/PinSelfUnlockActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/activities/lock/PinSelfUnlockActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vacapplock/activities/lock/PinUnlockActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/activities/lock/PinUnlockActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vacapplock/activities/main/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/activities/main/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vacapplock/activities/main/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/activities/main/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vacapplock/activities/main/UserAppFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/activities/main/UserAppFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vacapplock/adapters/MainAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/adapters/MainAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vacapplock/api/ApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/api/ApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vacapplock/base/AppConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/base/AppConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vacapplock/db/CommLockInfoManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/db/CommLockInfoManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vacapplock/services/LoadAppListService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/services/LoadAppListService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vacapplock/services/LockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/services/LockService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vacapplock/utils/NotificationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vacapplock/utils/NotificationUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_pin_self_unlock.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_pin_self_unlock.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_pin_unlock.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_pin_unlock.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_setting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/item_main_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/item_main_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/styles.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2o6LhEmlziounVfokFAjxN9vxyI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "Hoang",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Code/Hoang/mobile/vac/VACAppLock/app"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="961f2fee-1f03-4c4d-a469-8a4c7e366bb4" name="Changes" comment="" />
+      <created>1730185195474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730185195474</updated>
+    </task>
+    <servers />
+  </component>
+</project>
